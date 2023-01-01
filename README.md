@@ -32,6 +32,7 @@ You can generate mails and use it to mass signin a website, it saves output in "
 
 ~/mailmultiply ❯❯❯ ./mailmultiply.sh
 ```
+ 
 
 ### For termux (android)
 
@@ -61,4 +62,4 @@ Mail Multiply is created to help in penetration testing and it's not responsible
 
 ## License
 
-This work by [3xplotGuy](https://github.com/3xploitGuy) is licensed under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
+This work by [clockwork](https://github.com/clockwork-dev) is licensed under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
